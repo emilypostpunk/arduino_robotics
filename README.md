@@ -1,2 +1,8 @@
 # arduino_robotics
 ArduinoRoboticsSummer2017
+
+  I did not come into this class thinking the first project I made would lead me so immediately to concepts for my senior thesis project, but that is exactly what ended up happening. I knew that I was not taking the class for the science/math credit and that it would be primarily a studio exercise for me, and that my goal was to begin developing ideas for my thesis. I just did not expect it all to come together that quickly or that clearly.
+  
+  There is no question that I struggled with the coding aspects of the class. Having just finished a semester of Data Visualization with Rhonda Holberton in which I struggled to learn the basics of Processing, this frustrated but didn't surprise me. It took me most of that semester and a good chunk of this summer session to further clarify for myself why I was having such a hard time with it when it's something that genuinely fascinates me. My conclusion is that code is both a scientific language and a data management process, and that historically the only way I have managed to gain clear comprehension of these things is to start at the very beginning and build slowly in layers, with heavy repetition. The other technique that serves me well is deconstructing someone else's work, but this generally only comes into play once I have learned the basics and have some idea of what it is I'm deconstructing. 
+  
+  There was simply no way for me to wrap my brain around the programming nuances in the six weeks we had available, so I moved on to finding projects existing projects I could hack and tinker with in order to learn what I need to be working on next semester in Interface with Barney. 
